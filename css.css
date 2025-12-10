@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.flex
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 10pt;
+    justify-content: space-between;
+}
+
+.center
+{
+    text-align: center;
+}
